@@ -1,1 +1,1 @@
-My first readme
+life is hard
